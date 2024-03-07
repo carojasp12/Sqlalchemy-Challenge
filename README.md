@@ -7,4 +7,5 @@
 Part 1: Analyze and Explore the Climate Data
 We use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. 
 
-![image](https://github.com/carojasp12/Sqlalchemy-Challenge/assets/152667250/7595b76d-5cb9-4e02-a956-d2b10b3909bf)
+![image](https://github.com/carojasp12/Sqlalchemy-Challenge/assets/152667250/2db9aabf-c76c-4d72-8c61-3c1b3aae40bf)
+
