@@ -20,3 +20,10 @@ The primary emphasis of our analysis lies in the examination of precipitation pa
 
 ![image](https://github.com/carojasp12/Sqlalchemy-Challenge/assets/152667250/14173a12-c630-4e70-b0e9-501f69a2b4e8)
 
+### Part 2: Design Your Climate App
+To facilitate data visualization, we have developed a Flask API that is designed to interface with the queries previously developed. This API serves as a means to easily access and present the underlying database information in a visually intuitive manner.
+
+
+
+
+
